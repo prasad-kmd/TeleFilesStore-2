@@ -1,5 +1,5 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "TeleFilesStore-2",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://cdn5.telegram-cdn.org/file/vOSQIGsZ44KiL9nfeB12xYK72qEjrKDAO7v7TyOtTJAXd1XB23sfvY3bJayYl8RIDisLgsk3DiMfO3un69GBPhXGFFEHWq_bvgyS0PRc0oVYiHbX64I_nkY5biUtcSJhR-JM8lCCmnLx0FXb9ZG274ATcNI0PErMZyMNbCswuucyrrQrDyYNYosqWbf_X3R2_fa3paUgnkNhJhCALyBEuwy7Ywayxc7bOfhx-lu2vgbi2AuUmRsOmF0LLIaWcqkRCTSd7TAQ4BIm5lhAa1w3_WcV9DNAUS0s2jXDhj2YFZHoZ4TQAtwlJYIoDww7-MTtIMrrXq5rjSQS0-H-dbRC2A.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
